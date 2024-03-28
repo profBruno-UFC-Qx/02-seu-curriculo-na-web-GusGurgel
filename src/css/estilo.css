@@ -13,7 +13,7 @@ html {
 ----------------------------------*/
 
 nav ul {
-    margin:  20px 0px 40px 0px;
+    margin:  20px 0 40px 0;
     padding-left: 20px
 }
 
@@ -49,8 +49,8 @@ footer {
 
 .experiencia-bloco h4 {
     float: left;
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
 }
 
 .experiencia-bloco .right-date {
@@ -71,5 +71,5 @@ p {
 }
 
 section {
-    margin: 50px 0px;
+    margin: 50px 0;
 }
